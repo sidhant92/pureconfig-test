@@ -1,0 +1,1 @@
+# pureconfig-test
