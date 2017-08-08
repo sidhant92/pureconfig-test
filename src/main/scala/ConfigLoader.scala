@@ -1,6 +1,7 @@
 import config.Zoo
 import com.typesafe.config.ConfigFactory
 import pureconfig.loadConfig
+import enumeratum._
 
 class ConfigLoader {
 	private val ZooConfigConst = ConfigFactory.load("test.conf")
